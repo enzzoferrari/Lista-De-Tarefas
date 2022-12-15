@@ -1,0 +1,2 @@
+# Lista-De-Tarefas
+IDE(ANDROID STUDIO, SQL  ,JAVA, XML, DB
